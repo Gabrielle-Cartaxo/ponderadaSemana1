@@ -1,7 +1,7 @@
 ---
 title: Página de apresentação
 sidebar_position: 1
-slug: /
+slug: /ponderada
 ---
 
 # Quem sou eu?

@@ -21,3 +21,23 @@
   align-items: center;
   justify-content: center;
 }
+
+.botaoContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.botao {
+  padding: 10px 20px;
+  background-color: #f0f0f0; /* Off white */
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}

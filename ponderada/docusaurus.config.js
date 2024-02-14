@@ -16,7 +16,7 @@ const config = {
   url: 'https://gabrielle-cartaxo.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/ponderadaSemana 1/',
+  baseUrl: '/ponderadaSemana1/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.

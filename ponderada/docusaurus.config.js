@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Atividadde Ponderada',
+  tagline: 'Primeiro 10 do ano?',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -45,6 +45,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            routeBasePath: '/'
         },
         blog: {
           showReadingTime: false,
@@ -62,7 +63,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Ponderada',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -72,10 +73,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Ponderada semana 1',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Gabrielle-Cartaxo',
             label: 'GitHub',
             position: 'right',
           },
